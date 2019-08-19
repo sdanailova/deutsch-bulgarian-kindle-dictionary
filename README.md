@@ -28,7 +28,7 @@ Deutsch - Bulgarian kindle dictionary / Българо - Немски киндъ
     
 * Дарение - в случай, че желаете да допринесете с дарение към бъдещата разработка на речника или да благодарите за усилията на автора, може да го направите 
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/svetlapal)
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QRFK8GEGTB92E)
 
 Only for personal use. 
 Licence GNU GPLv3
